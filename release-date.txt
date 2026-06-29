@@ -1,4 +1,4 @@
 orginal-planned= july 4
-current-planned= july 11
+current-planned= july 18
 actual-release= not happened yet
-current-days-delayed= 7
+current-days-delayed= 14
